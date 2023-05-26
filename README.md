@@ -8,7 +8,7 @@ This script takes a list of all EU countries with their accession dates and conv
 
 ## Input data and method
 
-* The input is a dataset based on [this website]() and sligthly adjusted by adding an exit date for the United Kingdom.
+* The input is a dataset based on [this website](https://www.countries-ofthe-world.com/european-union-countries.html) and sligthly adjusted by adding an exit date for the United Kingdom.
 * A daily dataset is created that covers the period between the EU's foundation back in the 1950's and the end of the current calendar year
 * For each member state, we mark the calendar days on which it has been a part of the EU
 * We calculate aggregate metrics at the monthly and annual level, showing the number of days and the % of the month/year that the country has been an EU member for
